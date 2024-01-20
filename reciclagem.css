@@ -144,11 +144,15 @@ a{
   }
 .empresas{
     margin-top: 25px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
 
 }
 .empresas h1{
     text-align: center;
     margin-bottom: 25px;
+
 }
 .cards {
     display: flex;
@@ -289,6 +293,7 @@ a{
     .empresas{
         align-items: center;
         justify-content: center;
+        padding-left: 0;
     }
     .cards{
         padding-left: 25px;
